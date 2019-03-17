@@ -1,0 +1,15 @@
+
+.button-top a {
+background-color: yellow; /* цвет фона, с непрозрачностью 70% */
+padding: 10px 10px 10px 10px; /* отступы */
+color:  #FFFFFF; /* цвет стрелки */
+text-decoration: none; /* убираем нижнее подчеркивание */
+position: fixed; /* прикрепляем кнопку */
+bottom: 15px; /* отступ снизу от окна браузера */
+right: 15px; /* отступ справа от окна браузера */
+border: none;
+font-size: 28px;
+width: 80px;
+text-align: center; 
+}
+
